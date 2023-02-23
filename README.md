@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## FOTOS
+![1](./images/1.png)
+![2](./images/2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
